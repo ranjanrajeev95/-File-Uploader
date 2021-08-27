@@ -1,7 +1,3 @@
-## TradeCred Task
-
-Live Demo: https://viditvarshney.github.io/File-Uploader/
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
